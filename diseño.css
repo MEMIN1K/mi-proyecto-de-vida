@@ -1,0 +1,18 @@
+body {
+    background-image: url("imagenes/fondo-negro-con-contorno-blanco-patron-sin-fisuras-de-voleibol-2a193p6.jpg");
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+div  {
+    background-color: black;
+}
+
+
+.section{
+    border: 5px solid rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    align-items: center;
+}
